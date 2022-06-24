@@ -5,5 +5,5 @@ Starbeam is a new kind of reactive library. It makes reactive programming simple
 📖 [docs]
 💬 [discord]
 
-[docs]: https://starbeamjs.github.io/docs/
+[docs]: https://starbeamjs.com
 [discord]: https://discord.gg/HXq3PMmj8A
